@@ -6,11 +6,11 @@
 ## Sumário
 
 - [Sobre mim](#sobre-mim)
-- [APIs](#meus-projetos)
+- [Meus projetos](#meus-projetos)
   - [1º Semestre de 2021](#1º-semestre-de-2021)
   - [2º Semestre de 2023](#2º-semestre-de-2023)
   - [1º Semestre de 2024](#1º-semestre-de-2024)
-  - [Melhorias e Aprimoramento](#melhorias-e-aprimoramento)
+- [Contatos](#contatos)
 
 ---
 
@@ -201,7 +201,7 @@ https://github.com/BananaaScript/SGA
 
 ---
 
-## Contato
+## Contatos
 
 - [GitHub](https://github.com/Miojoguu)
 - [LinkedIn](https://www.linkedin.com/in/gustavo-lima-904623295/)
